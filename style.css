@@ -22,10 +22,12 @@ main{
 .Principale{
     list-style-type: none;
     font-weight: bold;
+    font-size: 20px;
 }
 .Secondario{
     list-style-type: none;
-    margin-left: 10px;  
+    margin-left: 10px;
+    padding: 5px;
 }
 span{
     font-size: 10px;
@@ -43,6 +45,7 @@ span{
     background-color: blue;
     color: white;
     border-radius: 3px;
+    padding: 5px;
 }
 .cross{
     color: red;
