@@ -21,6 +21,7 @@ main{
 }
 .Principale{
     list-style-type: none;
+    font-weight: bold;
 }
 .Secondario{
     list-style-type: none;
