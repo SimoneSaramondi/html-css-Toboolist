@@ -6,7 +6,7 @@
 header{
     margin-left: 20px;
     display: inline-block;
-    
+    padding: 5px;
 }
 main{
     width: 500px;
@@ -20,12 +20,12 @@ main{
     
 }
 .Principale{
-    list-style-type: none;
+    list-style-type: none; 
     font-weight: bold;
     font-size: 20px;
 }
 .Secondario{
-    list-style-type: none;
+    list-style-type: none; 
     margin-left: 10px;
     padding: 5px;
 }
@@ -44,7 +44,7 @@ span{
 .casella{
     background-color: blue;
     color: white;
-    border-radius: 3px;
+    border-radius: 8px;
     padding: 5px;
 }
 .cross{
