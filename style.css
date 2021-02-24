@@ -2,16 +2,20 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 header{
     margin-left: 20px;
     display: inline-block;
-    padding: 5px;
+}
+h1{
+    display: inline;
 }
 main{
     width: 500px;
     margin-left: 30%;
     margin-top: 50px;
+    
 }
 img{
     vertical-align: middle;
